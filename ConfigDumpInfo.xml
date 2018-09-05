@@ -67,7 +67,7 @@
 		<Metadata name="Document.ЗаказНаряд.ManagerModule" id="a6590e37-d7f0-4d6f-8cfe-961d16a65f80.2" configVersion="0ce2fe60e6069e4098232fe8af1c554000000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66aa5041-fe5d-4c46-b8da-fabd068214d5" configVersion="74f0e058f4cc0e49b91a3a9cc5017d7a00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66aa5041-fe5d-4c46-b8da-fabd068214d5.0" configVersion="94846a7272017b4a9bcff974cb4539ed00000000"/>
-		<Metadata name="Document.Поступление" id="a42df2f9-e6a7-4a42-afdc-c889034ca8d5" configVersion="22e063e87858d6498c1f263155fcab4900000000">
+		<Metadata name="Document.Поступление" id="a42df2f9-e6a7-4a42-afdc-c889034ca8d5" configVersion="99956ee4ff2878419406218a4f1a549400000000">
 			<Metadata name="Document.Поступление.Attribute.Комментарий" id="4a555924-5c51-415d-88a2-2d485de0c4ca"/>
 			<Metadata name="Document.Поступление.Attribute.СуммаДокумента" id="55504bc0-4109-4cf2-99ee-d7ca6ae2edd1"/>
 			<Metadata name="Document.Поступление.Attribute.Поставщик" id="58dcccc4-7abb-4c8a-b45b-29b3d93a318a"/>
@@ -79,8 +79,9 @@
 			<Metadata name="Document.Поступление.TabularSection.ТоварыИМатериалы.Attribute.Артикул" id="d0f4e440-20a7-4195-9b31-f8179d6310ff"/>
 			<Metadata name="Document.Поступление.TabularSection.ТоварыИМатериалы.Attribute.Сумма" id="f9fa11e0-72ff-4cba-ab4b-98fb856e3ad8"/>
 		</Metadata>
-		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="6957a80a-a42b-44bf-bc56-181cd31aaca8" configVersion="6c591f7cf3457d47a728f55e4ef9145e00000000"/>
-		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="6957a80a-a42b-44bf-bc56-181cd31aaca8.0" configVersion="c026441d25d64e4baba5d6634b998fc700000000"/>
+		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="6957a80a-a42b-44bf-bc56-181cd31aaca8" configVersion="f2301a697f8bf44597a48b84a15fd47200000000"/>
+		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="6957a80a-a42b-44bf-bc56-181cd31aaca8.0" configVersion="47caf7d67a835b478d0957105350975700000000"/>
+		<Metadata name="Document.Поступление.ObjectModule" id="a42df2f9-e6a7-4a42-afdc-c889034ca8d5.0" configVersion="b7fa0e9028ccf442a26e64d2bc35c7e600000000"/>
 		<Metadata name="Enum.ТипыДвигателей" id="4411a171-b809-40e6-976a-34ac27fdaafa" configVersion="f1c71cd4d0a41644aca0e8f70429c9a500000000">
 			<Metadata name="Enum.ТипыДвигателей.EnumValue.БензиновыйТурбо" id="36ff0b94-2c19-4854-a826-b0247c96e329"/>
 			<Metadata name="Enum.ТипыДвигателей.EnumValue.Бензиновый" id="9c330603-c9c1-43f3-9788-6cd6fc7174bb"/>
