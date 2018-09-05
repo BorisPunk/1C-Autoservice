@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
 	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="2f465266-0c9a-42be-8541-47e44f9cf9fe" configVersion="945d9330794b094c8ca85f648ce9e0f900000000">
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="167280e3-df2b-4625-90cd-94e44eb076eb"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Цена" id="4bf559c2-8d45-4c85-ab47-fc875e30cdf0"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="aafcf047-1983-4679-b9b3-11f537a4656b"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Материал" id="c50b5a2d-0bcf-4cc8-b5d7-1d038207f420"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Артикул" id="f972ecc8-e827-42cc-8acd-2cead4655380"/>
+		</Metadata>
 		<Metadata name="Catalog.Автомобили" id="576afaab-d09c-42d0-9e3a-5d2fcae31b5d" configVersion="b69f4d540d420b45bb6fdd5a191914df00000000">
 			<Metadata name="Catalog.Автомобили.Attribute.Модель" id="0ebcea82-4323-441d-a276-fdd0e2aadd08"/>
 			<Metadata name="Catalog.Автомобили.Attribute.КодДвигателя" id="329c0eaa-00cc-413f-b079-9035b33fe3e9"/>
@@ -37,7 +44,7 @@
 		</Metadata>
 		<Metadata name="CommonModule.РаботаСДокументами" id="95309317-25d5-4256-92ee-183947ad24f0" configVersion="50253d72e1b5c2418c99f045a3b48b8500000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="95309317-25d5-4256-92ee-183947ad24f0.0" configVersion="d27e927ed4962f4f8ec96c0cec5cf49800000000"/>
-		<Metadata name="Configuration.Конфигурация" id="9e5fdf9d-d5d0-4956-ac68-3ad25c022000" configVersion="e72266d975b5334ba1452b46ef833e3c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="9e5fdf9d-d5d0-4956-ac68-3ad25c022000" configVersion="581c053546b4a945b2175a340d23331e00000000"/>
 		<Metadata name="Document.ЗаказНаряд" id="a6590e37-d7f0-4d6f-8cfe-961d16a65f80" configVersion="91dd9befeca51a4d944bcd9faa7abe0200000000">
 			<Metadata name="Document.ЗаказНаряд.Attribute.Примечания" id="3ecd3d90-b99d-44eb-8d17-a1a0db30cd9a"/>
 			<Metadata name="Document.ЗаказНаряд.TabularSection.Материалы.Attribute.Цена" id="4f6b1e75-c4e1-434c-b40a-dd828538c669"/>
@@ -60,7 +67,7 @@
 		<Metadata name="Document.ЗаказНаряд.ManagerModule" id="a6590e37-d7f0-4d6f-8cfe-961d16a65f80.2" configVersion="0ce2fe60e6069e4098232fe8af1c554000000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66aa5041-fe5d-4c46-b8da-fabd068214d5" configVersion="74f0e058f4cc0e49b91a3a9cc5017d7a00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66aa5041-fe5d-4c46-b8da-fabd068214d5.0" configVersion="94846a7272017b4a9bcff974cb4539ed00000000"/>
-		<Metadata name="Document.Поступление" id="a42df2f9-e6a7-4a42-afdc-c889034ca8d5" configVersion="5aaf9078b8f31f458698438ecc04d16a00000000">
+		<Metadata name="Document.Поступление" id="a42df2f9-e6a7-4a42-afdc-c889034ca8d5" configVersion="22e063e87858d6498c1f263155fcab4900000000">
 			<Metadata name="Document.Поступление.Attribute.Комментарий" id="4a555924-5c51-415d-88a2-2d485de0c4ca"/>
 			<Metadata name="Document.Поступление.Attribute.СуммаДокумента" id="55504bc0-4109-4cf2-99ee-d7ca6ae2edd1"/>
 			<Metadata name="Document.Поступление.Attribute.Поставщик" id="58dcccc4-7abb-4c8a-b45b-29b3d93a318a"/>

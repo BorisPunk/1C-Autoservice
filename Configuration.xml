@@ -144,6 +144,7 @@
 			<Enum>ТипыТрансмиссий</Enum>
 			<Report>ОтчетПоНарядЗаказам</Report>
 			<Report>ОтчетПоАртикулу</Report>
+			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
